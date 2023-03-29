@@ -1,16 +1,13 @@
-### Hi there 👋
+***Olá, Luiz aqui :)***
+<p>Sou um jovem que entende um pouco sobre o que é a programção, mas não como realmente funciona o mercado de trabalho. Posso dizer que com html consigo desenvolver algo não muito profissional, mas pelo menos sei o básico. Sei mecher um pouco com css e também tenho muita vontade de ser um front-end algum dia, espero que meu sonho possa se realizar.</p>
+ 
+ 
+    👨‍💻  Sou aluno munitor nas aulas de Pensamento Computacional
+    💻 Atualmente focando em:
+    
+     
+    
+    
+    
 
-<!--
-**luizkujo/luizkujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
