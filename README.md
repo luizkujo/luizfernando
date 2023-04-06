@@ -1,6 +1,6 @@
 # Olá Luiz aqui 👋 #
 
-![Luiz Feranando GitHub stats](https://github-readme-stats.vercel.app/api?username=luizkujo&show_icons=true&theme=radical)
+![Luiz Feranando GitHub stats](https://github-readme-stats.vercel.app/api?username=luizkujo&show_icons=true&theme=merko)
 
 ##
   
